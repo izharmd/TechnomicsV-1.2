@@ -1,0 +1,4 @@
+#Wed Apr 25 11:01:13 IST 2018
+base.0=D\:\\WorkSpace_Izhar\\E-Safari-5-1-18\\Trippal_V_1.0-30-01-18\\TechnomicsV-1.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

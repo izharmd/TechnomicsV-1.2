@@ -1,4 +1,4 @@
-#Thu Aug 09 10:14:11 IST 2018
+#Thu Sep 20 15:38:01 IST 2018
 base.0=C\:\\IZHAR_WORKSPACE\\Technomics-Ver-1.1\\TechnomicsV-1.1\\app\\build\\intermediates\\transforms\\dex\\release\\0
 path.0=classes.dex
 renamed.0=classes.dex
